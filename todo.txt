@@ -1,0 +1,18 @@
+-> Functional Requirements:
+   1. Work on unique_recipe_count ✔
+   2. Work on count_per_recipe ✔
+   3. Work on busiest_postcode ✔
+   4. Work on count_per_postcode_and_time ✔
+   5. Work on match_by_name ✔
+
+-> Non-functional Requirements:
+   1. Setup basic project structure ✔
+   2. Add Dockerfile ✔
+   3. Add Makefile with basic commands ✔
+   4. Dockerize app using Docker and docker-compose files ✔
+   5. Add a readme file with setup instructions ✔
+   6.
+
+-> Others:
+   1. Add unit tests ✔
+   2.

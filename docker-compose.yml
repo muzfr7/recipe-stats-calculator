@@ -1,0 +1,9 @@
+version: '3.7'
+
+services:
+  app:
+    build: .
+    image: muzfr7/recipe_stats_calculator
+    container_name: recipe_stats_calculator
+    volumes:
+      - ./resources:/app/resources:cached
